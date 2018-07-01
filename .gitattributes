@@ -1,0 +1,6 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.u8 filter=lfs diff=lfs merge=lfs -text
+dictionary.txt filter=lfs diff=lfs merge=lfs -text
+graphics.txt filter=lfs diff=lfs merge=lfs -text
+giga-zh.num.txt filter=lfs diff=lfs merge=lfs -text
+internet.num.txt filter=lfs diff=lfs merge=lfs -text
