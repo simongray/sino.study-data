@@ -1,5 +1,7 @@
 The various data sets in this repository come from different sources and are covered by different licenses. All of the licenses are available for reading in the licenses directory.
 
+NOTE: this repo requires [git LFS](https://git-lfs.github.com/).
+
 cedict_ts.u8
 ------------
 Source: https://cc-cedict.org/editor/editor.php?handler=Download
